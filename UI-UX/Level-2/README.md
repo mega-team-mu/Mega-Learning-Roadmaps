@@ -4,7 +4,7 @@
 Enhance UI/UX skills with prototyping and usability testing.
 
 ### 🗂 Structure
-Duration: 4–12 weeks
+Duration: 10–18 weeks
 
 ### 📋 Overview
 - Interactive prototypes  
