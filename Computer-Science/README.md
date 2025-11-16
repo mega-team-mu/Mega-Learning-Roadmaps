@@ -1,3 +1,10 @@
-# Computer Science
+# Computer Science Circle
 
-This is the Computer Science circle. It contains Level-1, Level-2, Level-3. Open each level folder for weekly roadmaps.
+This circle teaches core computer science concepts across three levels.
+
+## Levels
+- Level-1: Foundations (programming basics, logic)
+- Level-2: Intermediate (data structures, algorithms)
+- Level-3: Advanced (system design, databases)
+
+Open a Level folder to view the weekly roadmap.
