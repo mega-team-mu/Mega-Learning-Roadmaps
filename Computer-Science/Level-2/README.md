@@ -1,10 +1,16 @@
-# Computer Science - Level 2 Roadmap
+# Computer Science – Level 2
 
-## Objective
-Write the objective here.
+## 🎯 Objective
+Strengthen intermediate skills: data structures, algorithms, and problem-solving techniques.
 
-## Weekly overview
-- Week-1: Topic
-- Week-2: Topic
-- Week-3: Topic
-- Week-4: Topic
+## 🗂 Structure
+- Duration: 4–12 weeks  
+- Each week contains: Objectives, Content, Tasks, Deliverables
+
+##  Overview
+- Advanced data structures (lists, stacks, queues)  
+- Searching and sorting algorithms  
+- Recursion and functions  
+- Small project or challenge  
+
+> Open each week folder for full details and resources.
