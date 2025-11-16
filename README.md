@@ -37,7 +37,8 @@ Each week contains:
 - Flutter  
 - Business Analysis  
 - Front End  
-- Back End  
+- Back End
+- UI/UX
 
 Each circle has its own folder with links to Levels and Weeks.
 
