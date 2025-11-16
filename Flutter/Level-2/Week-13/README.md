@@ -15,7 +15,7 @@ In this project, each member will do the required app individually. The app we w
 - **Third Screen:** Favorite Recipes List:  this screen should show a list of favorite recipes using the favorite recipes added to the SQLite database using the favorite button in the Recipe Details Screen. When the user clicks on any recipe, the app should navigate to the second screen to show the recipe details.
 - For this app, we will use the following design. The components marked with yellow are excluded, this design is from [this page](https://uxplanet.org/case-study-freshly-dropped-app-ux-design-for-cooking-and-shopping-a19c7a00c322) but we only need the general main details. For the first and third screen, they will be similar but the screen title will change. The user can navigate between Recipes List and Favorite Recipes List using a BottomNavigationBar, Home and Favorites. The design shouldn’t be exactly the same, so feel free to add or edit any part to make it better.
 
-![Inked1_bbxRRAQBVGRXQMurjuXixA_LI.jpg](attachment:2f159d15-6681-4b18-b23c-68afed9ec6cc:Inked1_bbxRRAQBVGRXQMurjuXixA_LI.jpg)
+[Example]([attachment:2f159d15-6681-4b18-b23c-68afed9ec6cc:Inked1_bbxRRAQBVGRXQMurjuXixA_LI.jpg](https://img.notionusercontent.com/s3/prod-files-secure%2F69265367-28f9-442a-baad-99d149be1c46%2F2f159d15-6681-4b18-b23c-68afed9ec6cc%2FInked1_bbxRRAQBVGRXQMurjuXixA_LI.jpg/size/w=1420?exp=1763405762&sig=aRs67lUhkIB2qG_a243afEYf0fr7MClkD_rHlXD4tdc&id=26c3f5d2-0d4b-8037-bf6f-c6ed21a377ca&table=block))
 
 You can use this API:
 
