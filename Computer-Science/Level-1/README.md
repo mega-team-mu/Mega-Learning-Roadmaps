@@ -1,10 +1,16 @@
-# Computer Science - Level 1 Roadmap
+# Computer Science – Level 1
 
-## Objective
-Write the objective here.
+## 🎯 Objective
+Build a strong foundation in programming basics, logic, and problem solving.
 
-## Weekly overview
-- Week-1: Topic
-- Week-2: Topic
-- Week-3: Topic
-- Week-4: Topic
+## 🗂 Structure
+- Duration: 4–12 weeks  
+- Each week contains: Objectives, Content, Tasks, Deliverables
+
+## Overview
+- Introduction and setup  
+- Variables, data types, and control flow  
+- Basic data structures and simple programs  
+- Small project or wrap-up  
+
+> Open each week folder for full details and resources.
