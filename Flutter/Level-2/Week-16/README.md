@@ -15,7 +15,7 @@ https://openweathermap.org/
 
 The app design:
 
-![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/46dcf001-f69a-4560-85a5-5b51116224f5/a02286b7-03c7-46e3-9971-4bf682ed1e13/Untitled.png)
+![design](https://img.notionusercontent.com/s3/prod-files-secure%2F69265367-28f9-442a-baad-99d149be1c46%2Fa02286b7-03c7-46e3-9971-4bf682ed1e13%2FUntitled.png/size/w=480?exp=1763406059&sig=OvMYFS6ZTMpxn0PRbVYfXSXVt6fBix31L60rUJZrRQ0&id=26c3f5d2-0d4b-8027-ac7f-ce35d863ff4d&table=block)
 
 ## Second Project (Groups)
 
