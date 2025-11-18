@@ -80,47 +80,48 @@ Tools:
 ---
 
 ## 🧪 Wireframing  
-What is a Wireframe? → **Introduction Video**
+[What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks&ab_channel=EvolveMarketing)
 
-Best tool to start with: **Balsamiq**  
-🔗 https://balsamiq.cloud/  
+Best tool to start with:
+[balsamiq](https://balsamiq.cloud/ )
 (30-day free trial)
 
 Tutorial playlist:  
-**Getting Started with Balsamiq Wireframes**
+[Getting Started with Balsamiq Wireframes](https://www.youtube.com/playlist?list=PLVlyYfbClWxQDCGC-A1FkbGyIxtuIN5IM)
 
 ---
 
 ## 📄 BA Documents  
 Great article explaining the essential documents used by BAs:  
-🔗 https://www.analyticsvidhya.com/blog/2021/09/important-documents-prepared-by-a-business-analyst/
+[Link](https://www.analyticsvidhya.com/blog/2021/09/important-documents-prepared-by-a-business-analyst/)
 
-From Software Quality Academy (Arabic) you can see an **SRS document built step-by-step**:  
+From Software Quality Academy (Arabic) you can see an **SRS document built step-by-step**:
+[Link](https://www.youtube.com/playlist?list=PLQUxWr2rTswnKJ6N6Wl9ae1gkYLhGH2TU)
 Videos: **3 & 10**
 
 ---
 
 ## ⚡ Agile Model  
 A simple beginner-friendly Agile course:  
-🔗 https://www.youtube.com/playlist?list=PLJLGstsHlt9zo4pQRGOzVcAn_y328VRCO
+[Link](https://www.youtube.com/playlist?list=PLJLGstsHlt9zo4pQRGOzVcAn_y328VRCO)
 
 ---
 
 ## 📺 Important YouTube Channels to Follow  
-- @iiba  
-- @invensislearning9099  
-- @karaleise  
-- @ThePrefectBA  
-- @Thebaguide  
-- @thebatutor6253  
-- @AngeloTheBA  
-- @TheBusinessAnalystPandit  
-- @BABLOCKS  
+- [@iiba](https://www.youtube.com/@iiba)
+- [@invensislearning9099](https://www.youtube.com/@invensislearning9099) 
+- [@karaleise](https://www.youtube.com/@karaleise) 
+- [@ThePrefectBA](https://www.youtube.com/@ThePrefectBA)  
+- [@Thebaguide](https://www.youtube.com/@Thebaguide)  
+- [@thebatutor6253](https://www.youtube.com/@thebatutor6253https://www.youtube.com/@thebatutor6253) 
+- [@AngeloTheBA](https://www.youtube.com/@AngeloTheBA)  
+- [@TheBusinessAnalystPandit](https://www.youtube.com/@TheBusinessAnalystPandit)  
+- [@BABLOCKS](https://www.youtube.com/@BABLOCKS)  
 
 ---
 
 ## 👑 One of the Best LinkedIn Profiles for Business Analysis  
-🔗 https://www.linkedin.com/in/diwakarsinghbamentor/  
+[Link](https://www.linkedin.com/in/diwakarsinghbamentor/)
 Massive effort, great quality materials, and tons of free value.
 
 ---
