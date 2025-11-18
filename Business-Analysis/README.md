@@ -32,35 +32,35 @@ A set of basic videos to help you understand the field:
 
 ## 🧭 Career Path (IIBA)  
 A very important article from IIBA explaining how to transition into a BA career:  
-🔗 https://www.iiba.org/business-analysis-blogs/10-steps-to-transition-from-your-current-job-to-an-amazing-ba-career/
+[link](https://www.iiba.org/business-analysis-blogs/10-steps-to-transition-from-your-current-job-to-an-amazing-ba-career/?gclid=CjwKCAjwnZaVBhA6EiwAVVyv9AmBsPtydn3BgAFxuaezS_bektsoqFjjDvGJzmEaMry_gNb4Kklv1BoCMsQQAvD_BwE )
 
 Additional resources:  
-- **Bridging the Gap – GETTING STARTED as a Business Analyst**  
-- **Software Quality Academy – Business Analysis in Arabic**  
+[Bridging the Gap – GETTING STARTED as a Business Analyst](https://www.youtube.com/playlist?list=PL14I_GXo5bqzEM7oMQilmeVcxCUtbnap1)
+[Software Quality Academy – Business Analysis in Arabic](https://www.youtube.com/playlist?list=PLQUxWr2rTswnKJ6N6Wl9ae1gkYLhGH2TU)
   (Videos: 1, 2, 12, 15)
 
 ---
 
 ## 🧩 IIBA – International Institute of Business Analysis  
 Official website:  
-🔗 https://www.iiba.org/
+[IIBA](https://www.iiba.org/)
 
 You’ll find:  
 - Certifications  
 - Services  
 - BABOK Guide  
 
-📹 Intro video: **BABOK Introduction**
+📹 Intro video: [BABOK Introduction](https://www.youtube.com/watch?v=ShIxC-HEDJc&ab_channel=Zoomur)
 
 📘 Free 50-page IIBA Core Standard (great for beginners):  
-🔗 https://www.iiba.org/globalassets/standards-and-resources/core-standard/iiba-core-standard.pdf
+[PDF link](https://www.iiba.org/globalassets/standards-and-resources/core-standard/iiba-core-standard.pdf )
 
 ---
 
 ## 📚 Essential Courses (Fundamentals)
-- **The Practical Training for Product Owner (Arabic)**  
-- **Business Analysis Fundamentals – YouTube**  
-- **BA Tools and Techniques – YouTube**
+[The Practical Training for Product Owner (Arabic)](https://youtube.com/playlist?list=PL-f_Sn4DXCQj3AS6c8QB29-Ffc1katmlN&si=auBHADA-5G9Hj84Y)
+[Business Analysis Fundamentals – YouTube](https://www.youtube.com/playlist?list=PLbJF4g421wqnHLHkjsMcxKod9zRI_Xvpz)
+[BA Tools and Techniques – YouTube](https://www.youtube.com/playlist?list=PL14I_GXo5bqx-nlp0yrK4gqiYz0rTMijB)
 
 > I will keep updating this section with more playlists.
 
@@ -68,14 +68,14 @@ You’ll find:
 
 ## 📐 UML Diagrams  
 Intro video:  
-**What's UML and Why Do You Need It?**
+[What's UML and Why Do You Need It?](https://www.youtube.com/watch?v=8CBnAmYnwk0&ab_channel=LearntoCodewithKarolyNyisztor)
 
 Playlist covering most UML diagrams using Lucidchart:  
-🔗 Diagramming in Lucidchart – YouTube
+[Diagramming in Lucidchart](https://www.youtube.com/playlist?list=PLUoebdZqEHTxpGCwKrb82cIvHNoNaBb4R)
 
 Tools:  
-- Lucidchart: https://www.lucidchart.com/  
-- Draw.io (recommended): https://drawio-app.com/
+[Lucidchart](https://www.lucidchart.com/)
+[Draw.io (recommended)](https://drawio-app.com/)
 
 ---
 
