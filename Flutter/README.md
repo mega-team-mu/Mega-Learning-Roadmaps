@@ -1,4 +1,4 @@
-# Your Flutter Journey
+# 📱 Your Flutter Journey
 
 ### #1 Beginner Level
 
@@ -82,4 +82,4 @@ Here you'll dive deeper into Flutter development. You'll work with async/await a
 
 ---
 
-> **Note:** Each week listed in [Level 1](./Level-1/) / [Level 2](./Level-2/)Folders and leading to detailed learning guides, tool recommendations, and resources.
+> **Note:** Each week listed in [Level 1](./Level-1/) / [Level 2](./Level-2/) Folders and leading to detailed learning guides, tool recommendations, and resources.
