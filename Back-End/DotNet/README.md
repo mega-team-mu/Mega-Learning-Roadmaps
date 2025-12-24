@@ -1,6 +1,6 @@
 # Backend .NET Roadmap
 
-## Phase 0: Basics
+## LEVEL 0: Basics
 
 ### Introduction
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Phase 1: Beginner
+## LEVEL 1: Beginner
 
 ### Week 1: C# Basics
 
@@ -73,7 +73,7 @@
 
 ---
 
-## Phase 2: Intermediate
+## LEVEL 2: Intermediate
 
 ### Week 1: LINQ Basics
 
@@ -116,7 +116,7 @@
 
 ---
 
-## Phase 3: Advanced => Framework (ASP.NET Core)
+## LEVEL 3: Advanced => Framework (ASP.NET Core)
 
 ### Week 1: MVC & HTTP Introduction
 
@@ -171,7 +171,7 @@
 
 ---
 
-## Phase 4: Advanced Topics
+## LEVEL 4: Advanced Topics
 
 ### Week 1: Repository Pattern
 
