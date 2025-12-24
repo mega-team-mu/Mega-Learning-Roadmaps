@@ -13,7 +13,6 @@ By the end of this roadmap, Mega Team members will have the skills and portfolio
 - [Resources](#resources)
 - [Projects](#projects)
 - [Tips for Success](#tips-for-success)
-- [License](#license)
 
 ## Overview
 
@@ -124,7 +123,3 @@ Document all projects on GitHub with their own READMEs.
 - Share progress on GitHub and seek feedback.
 - If videos feel overwhelming, focus on understanding over speed—rewatch as needed.
 - Build projects step-by-step and add them to your portfolio.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
