@@ -1,18 +1,18 @@
 # 📱 Your Flutter Journey
 
-### #1 Beginner Level
+## #1 Beginner Level
 
 **Build your technical foundation.**
 
 This is where you start building your foundation in Flutter. You'll learn Dart basics & OOP, explore widgets, create simple screens.
 
-### #2 Intermediate Level
+## #2 Intermediate Level
 
 **Expand your skills and take on real challenges.**
 
 Here you'll dive deeper into Flutter development. You'll learn handle navigation, and build forms. You'll also learn how to fetch data from the internet and store it locally. By the end of this level, you'll complete a mini project to put everything together.
 
-### #3 Advanced Level
+## #3 Advanced Level
 
 **Master Flutter and build production-ready apps.**
 
@@ -55,7 +55,7 @@ Here you'll dive deeper into Flutter development. You'll work with async/await a
 
 ### #1 Beginner Level (Detailed)
 
-| Week    | Tags    |
+| Week              | Tags    |
 | :---------------- | :------ |
 | **Week 1**        | Concept |
 | **Week 2**        | Coding  |
