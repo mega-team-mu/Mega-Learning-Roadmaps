@@ -1,4 +1,4 @@
-## **Week 1 (**Flutter Basics)
+## **Week 1** (**Flutter Basics**)
 
 ---
 
