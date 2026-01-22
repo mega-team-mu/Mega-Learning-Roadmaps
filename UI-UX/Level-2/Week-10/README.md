@@ -1,44 +1,71 @@
-### **Week 10 : 1st step (Discover / Emphasis)**
+# Week 10: User Research & Design Systems
 
-### **1. User Research:**
+> 🎯 **Learning Objective:** Learn user research fundamentals including qualitative/quantitative methods and start building a design system.
 
-### Articles :
+---
 
-- https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/
-- https://www.interaction-design.org/literature/topics/user-research?srsltid=AfmBOoq59l1UjJ59x-PiCboSxwJHXAQmSQsZ_gygWS5RF81FySZe-MzQ
+## 📖 Topic 1: User Research
 
-### Videos :
+### 📚 Articles
 
-- https://www.youtube.com/watch?v=qo_hviKTUfg **( Arabic )**
-- https://www.youtube.com/watch?v=zGCRhd3r4fE **( English )**
-- https://www.youtube.com/watch?v=kQ_6faxhyIw **( English )**
-- https://www.youtube.com/watch?v=bAARmsv1tms&t=1s **( English )**
+| Title | Source |
+|-------|--------|
+| [The Importance of User Research](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/) | CareerFoundry |
+| [User Research](https://www.interaction-design.org/literature/topics/user-research) | Interaction Design Foundation |
 
-### **Qualitative & Quantitative Research:**
+### 🎬 Videos
 
-### Articles :
+| Title | Language |
+|-------|----------|
+| [User Research Fundamentals](https://www.youtube.com/watch?v=qo_hviKTUfg) | 🇪🇬 Arabic |
+| [How to Conduct User Research](https://www.youtube.com/watch?v=zGCRhd3r4fE) | 🇬🇧 English |
+| [User Research Methods](https://www.youtube.com/watch?v=kQ_6faxhyIw) | 🇬🇧 English |
+| [User Research Deep Dive](https://www.youtube.com/watch?v=bAARmsv1tms&t=1s) | 🇬🇧 English |
 
-- https://www.interaction-design.org/literature/topics/qualitative-research
-- https://www.interaction-design.org/literature/topics/quantitative-research
+---
 
-### Videos :
+## 📖 Topic 2: Qualitative & Quantitative Research
 
-- https://www.youtube.com/watch?v=dyHMTaQJmYo
-- https://www.youtube.com/watch?v=qvpitkHcIGk
-- https://youtu.be/LmWPygSxMms?si=puL5CpDH6fswmB9A
+### 📚 Articles
 
-### **Design system** :
+| Title | Source |
+|-------|--------|
+| [Qualitative Research](https://www.interaction-design.org/literature/topics/qualitative-research) | Interaction Design Foundation |
+| [Quantitative Research](https://www.interaction-design.org/literature/topics/quantitative-research) | Interaction Design Foundation |
 
-### Articles :
+### 🎬 Videos
 
-- https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b
-- https://www.designsystems.com/space-grids-and-layouts/
+| Title | Language |
+|-------|----------|
+| [Qualitative vs Quantitative](https://www.youtube.com/watch?v=dyHMTaQJmYo) | 🇬🇧 English |
+| [Research Methods](https://www.youtube.com/watch?v=qvpitkHcIGk) | 🇬🇧 English |
+| [Research in UX](https://youtu.be/LmWPygSxMms?si=puL5CpDH6fswmB9A) | 🇬🇧 English |
 
-### Videos :
+---
 
-- https://www.youtube.com/watch?v=EK-pHkc5EL4
-- https://www.youtube.com/watch?v=_SK2L3Nns_s&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN **( Arabic )**
+## 📖 Topic 3: Design System
 
-## Task:
+### 📚 Articles
 
-### Apply on your project or idea & small ex. of Design System
+| Title | Source |
+|-------|--------|
+| [What Is a Design System?](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b) | UX Design |
+| [Space, Grids, and Layouts](https://www.designsystems.com/space-grids-and-layouts/) | Design Systems |
+
+### 🎬 Videos
+
+| Title | Language |
+|-------|----------|
+| [Design Systems Explained](https://www.youtube.com/watch?v=EK-pHkc5EL4) | 🇬🇧 English |
+| [Design System Playlist](https://www.youtube.com/watch?v=_SK2L3Nns_s&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN) | 🇪🇬 Arabic |
+
+---
+
+## ✅ Task
+
+1. **Apply research methods** on your project or idea
+2. Create a **small example of a Design System**
+
+---
+
+⬅️ [← Previous Week](../Week-9/) | [Back to Level 2](../README.md) | [Next Week →](../Week-11/)

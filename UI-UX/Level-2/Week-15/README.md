@@ -1,42 +1,61 @@
-### **Week 15 : 2nd step (Define/ Analyze)**
+# Week 15: Problem Statements & Card Sorting
 
-### **3.** Problem Statements**:**
+> 🎯 **Learning Objective:** Learn to write effective problem statements and use card sorting to organize information.
 
-### Articles :
+---
 
-- https://www.interaction-design.org/literature/topics/problem-statements
-- https://www.nngroup.com/articles/problem-statements/
+## 📖 Topic 1: Problem Statements
 
-### Videos :
+### 📚 Articles
 
-- https://www.youtube.com/watch?v=kT0ZqwdPYRM
-- https://youtu.be/TNAdanuvwtc?si=WldpFOTXRn5f00We
+| Title | Source |
+|-------|--------|
+| [Problem Statements](https://www.interaction-design.org/literature/topics/problem-statements) | Interaction Design Foundation |
+| [How to Write Problem Statements](https://www.nngroup.com/articles/problem-statements/) | NN Group |
 
-### **4. Card Sorting:**
+### 🎬 Videos
 
-### Articles :
+| Title | Language |
+|-------|----------|
+| [Problem Statement Guide](https://www.youtube.com/watch?v=kT0ZqwdPYRM) | 🇬🇧 English |
+| [Writing Problem Statements](https://youtu.be/TNAdanuvwtc?si=WldpFOTXRn5f00We) | 🇬🇧 English |
 
-- https://www.nngroup.com/articles/card-sorting-definition/
-- https://www.interaction-design.org/literature/topics/card-sorting?srsltid=AfmBOopD8k83V_GX89qk0djiBfvMuBkQMslN0XnkLwTmMgY7qXxEntMi
+---
 
-### Videos :
+## 📖 Topic 2: Card Sorting
 
-- https://www.youtube.com/watch?v=AxgMIEVcIMY
-- https://youtu.be/xUPpG3JCx6I?si=Z0ih18xn2Ve2Wk54
-- https://youtu.be/25RqpGJ4tJ8?si=o5T90WnaQaOzOiSs
+### 📚 Articles
 
-## Task:
+| Title | Source |
+|-------|--------|
+| [Card Sorting Definition](https://www.nngroup.com/articles/card-sorting-definition/) | NN Group |
+| [Card Sorting](https://www.interaction-design.org/literature/topics/card-sorting) | Interaction Design Foundation |
 
-### Apply on your project or idea
+### 🎬 Videos
 
-### Write a Problem Statement for your project or idea (Your statement should clearly explain) :
+| Title | Language |
+|-------|----------|
+| [Card Sorting Tutorial](https://www.youtube.com/watch?v=AxgMIEVcIMY) | 🇬🇧 English |
+| [How to Card Sort](https://youtu.be/xUPpG3JCx6I?si=Z0ih18xn2Ve2Wk54) | 🇬🇧 English |
+| [Card Sorting Explained](https://youtu.be/25RqpGJ4tJ8?si=o5T90WnaQaOzOiSs) | 🇬🇧 English |
 
-- Who your target users are
-- What specific problem they face
-- How this problem negatively impacts their experience, work, or daily life
+---
 
-**Example of a Problem Statement:**
+## ✅ Task
 
-"Delivery app users often experience delays in receiving their orders due to unclear location tracking. This issue creates frustration, reduces trust in the service, and negatively impacts customer satisfaction."
+### Write a Problem Statement
 
-### Try To make [this](https://dribbble.com/shots/25143936-Redesign-fancall-app) screens using Design system
+Your statement should clearly explain:
+- **Who** your target users are
+- **What** specific problem they face
+- **How** this problem negatively impacts their experience, work, or daily life
+
+> **Example:** "Delivery app users often experience delays in receiving their orders due to unclear location tracking. This issue creates frustration, reduces trust in the service, and negatively impacts customer satisfaction."
+
+### Practice Design System
+
+Try to make [this Fancall app redesign](https://dribbble.com/shots/25143936-Redesign-fancall-app) screens using a Design System
+
+---
+
+⬅️ [← Previous Week](../Week-14/) | [Back to Level 2](../README.md) | [Next Week →](../Week-16/)

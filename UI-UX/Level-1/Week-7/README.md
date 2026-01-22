@@ -1,17 +1,41 @@
-### **Week 7 : Final Project by Adobe XD**
+# Week 7: Final Project 🎓
 
-### **Final Project for beginners is to design a simple app that allows users to order any thing online from local brands, with a user-friendly interface for browsing and ordering.**
+> 🎯 **Learning Objective:** Apply everything you've learned to create a complete app design from start to finish.
 
-### **Details:**
+---
 
-- Study popular online selling apps
-- Search for Visual feeding ( تغذية بصرية ) on [**Behance](https://www.behance.net/)** and [**Dribbble**](https://dribbble.com/)
-- Identify the strengths and weaknesses of existing apps
-- Wireframes
-- Design final UI
-- Focus on UI & UX principles
-- Prototype
+## 📋 Project Brief
 
-## Task:
+Design a **simple app that allows users to order anything online from local brands** with a user-friendly interface for browsing and ordering.
 
-### Do presentation & explain stages you went through and final prototype.
+---
+
+## 📝 Project Steps
+
+1. **Research**
+   - Study popular online selling apps
+   - Search for visual inspiration (تغذية بصرية) on:
+     - [Behance](https://www.behance.net/)
+     - [Dribbble](https://dribbble.com/)
+   - Identify strengths and weaknesses of existing apps
+
+2. **Design Process**
+   - Create **wireframes**
+   - Design **final UI**
+   - Focus on **UI & UX principles**
+   - Build **prototype**
+
+---
+
+## ✅ Task
+
+**Create a presentation explaining:**
+- The stages you went through
+- Your design decisions
+- Your final prototype demonstration
+
+---
+
+🎉 **Congratulations on completing Level 1!**
+
+⬅️ [← Previous Week](../Week-6/) | [Back to Level 1](../README.md) | [Start Level 2 →](../../Level-2/)

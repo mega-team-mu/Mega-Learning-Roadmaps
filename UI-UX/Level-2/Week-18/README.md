@@ -1,24 +1,43 @@
-### **Week 18 : 4th step (Design)**
+# Week 18: Visual Design & Figma Plugins
 
-### **Visual Design (revision):**
+> 🎯 **Learning Objective:** Revise visual design principles and learn to enhance your workflow with Figma plugins.
 
-### Articles :
+---
 
-- https://www.interaction-design.org/literature/topics/visual-design?srsltid=AfmBOoqV5vJy8Nbuig1ZDlugGqYfqmFEGSOowmJ_iBkLiUoBNO9F43u9
-- https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design?srsltid=AfmBOopph6svbfETFHWSN_3I2EQ_R_pgYWWCv75NLqHEIaFkCkpv8eFy
+## 📖 Topic 1: Visual Design (Revision)
 
-### Videos :
+### 📚 Articles
 
-- https://www.youtube.com/watch?v=yNDgFK2Jj1E
+| Title | Source |
+|-------|--------|
+| [Visual Design](https://www.interaction-design.org/literature/topics/visual-design) | Interaction Design Foundation |
+| [Building Blocks of Visual Design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design) | Interaction Design Foundation |
 
-### **Plugins :**
+### 🎬 Videos
 
-### Videos :
+| Title | Language |
+|-------|----------|
+| [Visual Design Principles](https://www.youtube.com/watch?v=yNDgFK2Jj1E) | 🇬🇧 English |
 
-- https://www.youtube.com/watch?v=iz_vvUGrOYU
-- https://www.youtube.com/watch?v=jnZmIy1XSMc
-- https://www.youtube.com/watch?v=N7uo391O2q0
+---
 
-## Task:
+## 📖 Topic 2: Figma Plugins
 
-### Start your design ( 2:4 splashs) and wirframes as [this](https://dribbble.com/shots/22947873-Onboarding-screens-for-mobile-application) screens
+### 🎬 Videos
+
+| Title | Language |
+|-------|----------|
+| [Best Figma Plugins](https://www.youtube.com/watch?v=iz_vvUGrOYU) | 🇬🇧 English |
+| [Must-Have Plugins](https://www.youtube.com/watch?v=jnZmIy1XSMc) | 🇬🇧 English |
+| [Plugin Tutorial](https://www.youtube.com/watch?v=N7uo391O2q0) | 🇬🇧 English |
+
+---
+
+## ✅ Task
+
+1. **Start your project design:** Create 2-4 splash screens and wireframes
+2. **Reference:** [Onboarding screens example](https://dribbble.com/shots/22947873-Onboarding-screens-for-mobile-application)
+
+---
+
+⬅️ [← Previous Week](../Week-17/) | [Back to Level 2](../README.md) | [Next Week →](../Week-19/)
