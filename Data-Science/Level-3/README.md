@@ -1,12 +1,15 @@
-<summary>Level 3</summary>
+# Level 3 - *Coming Soon*
 
-### 🎯 Objective
+## 🎯 Objective
+
 Master advanced data science and machine learning workflows.
 
-### 🗂 Structure
+## 🗂 Structure
+
 Duration: 4–12 weeks
 
-### 📋 Overview
+## 📋 Overview
+
 - Advanced ML algorithms  
 - Model evaluation & tuning  
 - Big data & pipelines  
