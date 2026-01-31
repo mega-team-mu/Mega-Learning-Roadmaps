@@ -19,7 +19,7 @@ This roadmap was created with passion to guide, inspire, and support everyone wh
 ## 📚 Levels Overview
 
 | Level | Duration | Focus Areas |
-|-------|----------|-------------|
+| ------- | ---------- | ------------- |
 | [**Level 1**](./Level-1/) | 7 Weeks | Design Fundamentals, UI/UX Basics, Figma Introduction |
 | [**Level 2**](./Level-2/) | 19 Weeks | Design Thinking, User Research, Prototyping |
 
@@ -43,6 +43,14 @@ This roadmap was created with passion to guide, inspire, and support everyone wh
 Open a Level folder to see the weekly roadmap and begin your UI/UX journey!
 
 | Quick Links |
-|-------------|
+| ------------- |
 | 👉 [Start Level 1](./Level-1/) |
 | 👉 [Start Level 2](./Level-2/) |
+
+---
+
+## 📬 Contact
+
+For questions or feedback, reach out to [Mega-Team-MU](https://www.facebook.com/megateam.mu18).
+
+---

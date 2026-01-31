@@ -123,3 +123,11 @@ Document all projects on GitHub with their own READMEs.
 - Share progress on GitHub and seek feedback.
 - If videos feel overwhelming, focus on understanding over speed—rewatch as needed.
 - Build projects step-by-step and add them to your portfolio.
+
+---
+
+## 📬 Contact
+
+For questions or feedback, reach out to [Mega-Team-MU](https://www.facebook.com/megateam.mu18).
+
+---

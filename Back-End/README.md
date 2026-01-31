@@ -15,3 +15,11 @@ By completing this circle, you will be able to:
 - **Implement Design Patterns** – Apply common software design patterns to solve recurring problems effectively.
 - **Use Version Control** – Collaborate using Git and GitHub for source code management.
 - **Deploy Applications** – Understand containerization (Docker) and cloud deployment basics.
+
+---
+
+## 📬 Contact
+
+For questions or feedback, reach out to [Mega-Team-MU](https://www.facebook.com/megateam.mu18).
+
+---

@@ -24,6 +24,7 @@ The repository is organized like this:
     - Week files
 
 Each week contains:
+
 - 📌 *Learning objectives*  
 - 📘 *Content & resources*  
 - 📝 *Weekly tasks*  
@@ -32,6 +33,7 @@ Each week contains:
 ---
 
 ## 🌀 Circles Included
+
 - Computer Science  
 - Data Science  
 - Flutter  
@@ -45,6 +47,7 @@ Each circle has its own folder with links to Levels and Weeks.
 ---
 
 ## 🛠 How to Navigate
+
 1. Choose your Circle  
 2. Open **Level 1 / Level 2 / Level 3**  
 3. Enter the Week you want  
@@ -53,7 +56,9 @@ Each circle has its own folder with links to Levels and Weeks.
 ---
 
 ## 🤝 Contribution
+
 Circle Heads and Team Leads can update:
+
 - Weekly content  
 - Tasks  
 - Resources  
@@ -64,5 +69,13 @@ Submit a Pull Request with clear explanations.
 ---
 
 ## 📩 Need Help?
+
 For any issues, questions, or updates, contact us
 
+---
+
+## 📬 Contact
+
+For questions or feedback, reach out to [Mega-Team-MU](https://www.facebook.com/megateam.mu18).
+
+---
