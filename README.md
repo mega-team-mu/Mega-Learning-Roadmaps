@@ -6,12 +6,14 @@ Each circle has 3 levels, and every level is divided into weeks containing the c
 ---
 
 ## 🎯 Purpose of the Repository
+
 To provide a unified, organized, and clear learning journey for all circles in Mega.  
 Each member can easily follow their roadmap step-by-step and track their progress.
 
 ---
 
 ## 🗂 Repository Structure
+
 The repository is organized like this:
 
 - **Circle Folder (Computer Science, Data Science, etc.)**
