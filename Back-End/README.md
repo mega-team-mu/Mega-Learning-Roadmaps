@@ -20,7 +20,7 @@ By completing this circle, you will be able to:
 
 ## 📬 Contact
 
-For questions or feedback, reach out to [Mega-Team-MU](https://www.facebook.com/megateam.mu18).
+- For questions or feedback, reach out to *[Mega-Team-MU](https://www.facebook.com/megateam.mu18).*
 
-**Reference Contact** M.Backend [Eng.Ahmed Mohamed](https://www.linkedin.com/in/a7medmo25/)
+- **Reference Contact:** *M.Backend [Eng.Ahmed Mohamed](https://www.linkedin.com/in/a7medmo25/)*
 ---
